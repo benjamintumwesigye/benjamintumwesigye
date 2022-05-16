@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjamintumwesigye
 - 👀 I’m interested in Flutter development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently intrested in Flutter
 - 📫 How to reach me beldabenjaminz@gmail.com
 
 <!---
